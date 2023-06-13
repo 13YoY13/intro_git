@@ -1,1 +1,4 @@
 git practice
+learn work flow
+ git add
+ git commit
